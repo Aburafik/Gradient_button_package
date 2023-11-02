@@ -60,7 +60,7 @@ class Home extends StatelessWidget {
 
 </td>
 <td>
-<img  src="https://user-images.githubusercontent.com/53579386/126896556-911d4778-04cd-49bf-b32a-01a6eb3b0155.jpeg"  alt="">
+<img  src="https://github.com/Aburafik/Gradient_button_package/assets/60104035/dbe5cac8-0884-483d-a6ad-fcec4434d132"  alt="">
 </td>
 </tr>
 </table>
